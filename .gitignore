@@ -124,3 +124,5 @@ chroma_db/*
 *.sqlite
 *.sqlite3
 *.db
+
+my-setup-demo/
